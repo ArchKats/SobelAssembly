@@ -6,7 +6,7 @@
 
 Run on x86 Linux.
 
-```make all```
+```make```
 
 The resulting program is 32-bit.
 
